@@ -125,7 +125,6 @@ This repo contains my **step-by-step React learning journey** with explanations 
 
 ---
 
-#  என் React கற்றல் Repository
 
 என் React கற்றல் repository-க்கு வரவேற்கிறேன்!  
 இந்த repository-ல் நான் படிப்படியாக React கற்றுக்கொண்ட பயணத்தை (**English + தமிழ் விளக்கத்துடன்**) பதிவு செய்து வைத்திருக்கிறேன்.
