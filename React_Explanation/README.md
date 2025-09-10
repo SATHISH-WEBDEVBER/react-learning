@@ -1,4 +1,4 @@
-# Explanation of React
+<!-- # Explanation of React
 
 ---
 
@@ -92,4 +92,63 @@ Suppose you are using an **E-commerce Website (like Amazon or Flipkart)**.
 | **கற்றல் சிரமம்**       | எளிதில் கற்றுக்கொள்ளலாம், விரைவாக தொடங்கலாம்.                     | அதிக சிரமம், ஏனெனில் பல built-in features இருக்கும்.   |
 | **உதாரணம்**            | React, Lodash                                                  | Angular, Django, Spring                                 |
 
+--- -->
+
+
+# React Learning Repository 
+
+Welcome to my React learning repository!  
+This repo contains my **step-by-step React learning journey** with explanations in **both English and Tamil**.
+
 ---
+
+## Documents
+
+- 👉 [React Explanation (DOCX)](./React_Explanation.docx)  
+
+---
+
+## Topics Covered
+
+- What is React?  
+- Why React is Important?  
+- Features of React  
+- Real-Time Examples  
+- Library vs Framework (English & Tamil)  
+
+---
+
+## Usage
+
+- Read the **README.md** for a quick overview.  
+- For detailed **bilingual explanations**, download/open the `.docx` files provided in this repository.  
+
+---
+
+#  என் React கற்றல் Repository
+
+என் React கற்றல் repository-க்கு வரவேற்கிறேன்!  
+இந்த repository-ல் நான் படிப்படியாக React கற்றுக்கொண்ட பயணத்தை (**English + தமிழ் விளக்கத்துடன்**) பதிவு செய்து வைத்திருக்கிறேன்.
+
+---
+
+## ஆவணங்கள்
+
+- 👉 [React Explanation (DOCX)](./React_Explanation.docx)
+
+---
+
+## உள்ளடக்கம்
+
+- React என்றால் என்ன?  
+- React ஏன் முக்கியமானது?  
+- React-ன் சிறப்பம்சங்கள்  
+- உண்மையான உதாரணங்கள்  
+- Library vs Framework (ஆங்கிலம் + தமிழ்)  
+
+---
+
+## பயன்படுத்துவது எப்படி?
+
+- **README.md**-ல் உள்ளதைப் பார்த்து ஒரு சுருக்கமான Overview கிடைக்கும்.  
+- விரிவான இருமொழி விளக்கத்துக்கு (**English + தமிழ்**) `.docx` ஆவணங்களை பதிவிறக்கம் செய்து பார்க்கலாம்.  
