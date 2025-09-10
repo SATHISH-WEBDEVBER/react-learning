@@ -34,4 +34,62 @@ Suppose you are using an **E-commerce Website (like Amazon or Flipkart)**.
 
 ---
 
-![alt text](data:image/jpeg;base64,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)
+## Why React is Important? 
+
+1. **Faster Performance** – React uses Virtual DOM to update only the required parts of a page.  
+2. **Reusable Components** – Same UI components can be reused, saving time and effort.  
+3. **Easy to Maintain** – Component-based architecture makes applications more organized.  
+4. **Large Community Support** – Millions of developers contribute, ensuring continuous growth.  
+5. **High Industry Demand** – React developers are in high demand in web development jobs.  
+
+## React ஏன் முக்கியமானது?
+
+1. **வேகமான செயல்திறன்** – React Virtual DOM-ஐ பயன்படுத்தி தேவையான பகுதியை மட்டும் update செய்கிறது.  
+2. **மீண்டும் பயன்படுத்தக்கூடிய Components** – ஒரே UI components-ஐ பலமுறை பயன்படுத்தலாம்.  
+3. **பராமரிக்க எளிது** – Component-based architecture காரணமாக application சீராக இருக்கும்.  
+4. **பெரிய Community Support** – லட்சக்கணக்கான developers React-க்கு support தருகிறார்கள்.  
+5. **வேலை வாய்ப்பு அதிகம்** – React developer-க்களுக்கு IT துறையில் அதிக வேலை வாய்ப்பு உள்ளது.  
+
+---
+
+## Features of **React** :-
+
+1. **JSX (JavaScript XML)** – Allows writing HTML-like code inside JavaScript.  
+2. **Virtual DOM** – Improves performance by updating only changed elements.  
+3. **Component-Based** – Applications are divided into reusable small components.  
+4. **One-Way Data Binding** – Data flows in one direction, making debugging easier.  
+5. **Rich Ecosystem** – Compatible with many tools, libraries, and extensions.  
+
+## React-ன் சிறப்பம்சங்கள் :- 
+
+1. **JSX (JavaScript XML)** – JavaScript-க்குள் HTML போல code எழுத அனுமதிக்கிறது.  
+2. **Virtual DOM** – மாற்றம் ஏற்பட்ட பகுதிகளை மட்டும் update செய்வதால் வேகம் அதிகரிக்கும்.  
+3. **Component-Based** – Application சிறிய reusable components-ஆக பிரிக்கப்பட்டிருக்கும்.  
+4. **One-Way Data Binding** – Data ஒரே திசையில் செல்லும், debugging எளிதாகும்.  
+5. **பெரிய Ecosystem** – பல tools, libraries, extensions-க்கு React இணக்கமானது.  
+
+---
+
+##  Library vs Framework :-
+
+| **Aspect**        | **Library** (React)                                   | **Framework** (Angular)                          |
+|--------------------|-------------------------------------------------------|--------------------------------------------------|
+| **Definition**     | Collection of reusable code that developers call when needed. | Complete structure that controls the flow of the application. |
+| **Control**        | Developer has control – you decide when and how to use it. | Framework controls the flow – you follow its rules. |
+| **Flexibility**    | More flexible, can integrate with other libraries easily. | Less flexible, follows strict patterns. |
+| **Learning Curve** | Easier to learn and start quickly.                    | Steeper learning curve due to many built-in features. |
+| **Example**        | React, Lodash                                        | Angular, Django, Spring                          |
+
+---
+
+##  Library vs Framework (நூலகம் vs கட்டமைப்பு) :-
+
+| **விளக்கம்**           | **Library** (React)                                              | **Framework** (Angular)                                 |
+|-------------------------|------------------------------------------------------------------|---------------------------------------------------------|
+| **அர்த்தம்**            | தேவையானபோது பயன்படுத்தக்கூடிய reusable code களின் தொகுப்பு.       | Application-ன் முழு structure-ஐ நிர்வகிக்கும் system.   |
+| **கட்டுப்பாடு**         | Developer-க்கு கட்டுப்பாடு இருக்கும் – எப்போது, எப்படி பயன்படுத்தணும் நீங்கள்தான் முடிவு. | Framework-க்கு கட்டுப்பாடு இருக்கும் – அது சொன்ன விதிகளை நீங்க பின்பற்றணும். |
+| **நெகிழ்வு**            | அதிக நெகிழ்வு, மற்ற Libraries-ஐ எளிதில் சேர்க்கலாம்.               | குறைந்த நெகிழ்வு, strict patterns பின்பற்றணும்.          |
+| **கற்றல் சிரமம்**       | எளிதில் கற்றுக்கொள்ளலாம், விரைவாக தொடங்கலாம்.                     | அதிக சிரமம், ஏனெனில் பல built-in features இருக்கும்.   |
+| **உதாரணம்**            | React, Lodash                                                  | Angular, Django, Spring                                 |
+
+---
