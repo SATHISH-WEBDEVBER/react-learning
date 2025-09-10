@@ -34,4 +34,4 @@ Suppose you are using an **E-commerce Website (like Amazon or Flipkart)**.
 
 ---
 
-![alt text](image.png)
+![alt text](https://miro.medium.com/v2/0*_C52yYMRTDuMtdBA)
