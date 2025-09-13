@@ -8,7 +8,7 @@ This repo contains my **How to install Recat in VS Code** with explanations in *
 
 ## Documents
 
-- 👉 [React Installation (DOCX)](./DOM_Explanation.docx)  
+- 👉 [React Installation (DOCX)](./React_Installation.docx)  
 
 ---
 
@@ -33,7 +33,7 @@ This repo contains my **How to install Recat in VS Code** with explanations in *
 
 ## ஆவணங்கள்
 
-- 👉 [ரியாக்ட் நிறுவல் (DOCX)](./DOM_Explanation.docx)
+- 👉 [ரியாக்ட் நிறுவல் (DOCX)](./React_Installation.docx)
 
 ---
 
