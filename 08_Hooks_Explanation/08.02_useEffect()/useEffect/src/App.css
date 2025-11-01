@@ -1,0 +1,55 @@
+/* Root container styling */
+/* Counter பகுதியின் வடிவமைப்பு */
+.container {
+  text-align: center;
+  margin-top: 80px;
+  font-family: Arial, sans-serif;
+}
+
+/* Heading style */
+/* தலைப்பின் வடிவமைப்பு */
+.container h2 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* Paragraph style */
+/* உரையின் வடிவமைப்பு */
+.container p {
+  font-size: 18px;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+/* Button design */
+/* பட்டன் வடிவமைப்பு */
+button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin: 5px;
+  transition: 0.3s;
+}
+
+/* Hover effect */
+/* பட்டன் மீது செல்லும் போது நிகழும் விளைவு */
+button:hover {
+  background-color: #45a049;
+}
+
+/* Responsive design for small screens */
+/* சிறிய திரைகளுக்கான பதில் அளிக்கும் வடிவமைப்பு */
+@media (max-width: 600px) {
+  .container {
+    margin-top: 50px;
+  }
+
+  button {
+    width: 80%;
+    font-size: 18px;
+  }
+}
