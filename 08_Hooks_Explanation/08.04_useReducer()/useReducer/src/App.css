@@ -1,0 +1,84 @@
+/* Global container styling */
+/* செயலியின் முழு container வடிவமைப்பு */
+.app-container {
+  text-align: center;
+  background-color: #f0f4f8;
+  min-height: 100vh;
+  padding-top: 100px;
+  transition: all 0.3s ease-in-out;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Title text style */
+/* தலைப்பின் வடிவமைப்பு */
+.title {
+  font-size: 2rem;
+  margin-bottom: 30px;
+  color: #2c3e50;
+}
+
+/* Count display box */
+/* count மதிப்பைக் காட்டும் பெட்டி */
+.count-display {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 30px;
+  color: #34495e;
+}
+
+/* Button group alignment */
+/* பட்டன் குழுவின் அமைப்பு */
+.btn-group {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+/* Common button styling */
+/* பொது பட்டன் வடிவமைப்பு */
+.btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  font-weight: 600;
+  transition: all 0.3s ease-in-out;
+}
+
+/* Button hover effect */
+/* பட்டன் மேல் மவுஸ் சென்றால் நிகழும் விளைவு */
+.btn:hover {
+  transform: scale(1.05);
+}
+
+/* Specific button colors */
+/* ஒவ்வொரு பட்டனுக்கும் தனிப்பட்ட நிறங்கள் */
+.increase {
+  background-color: #27ae60;
+  color: white;
+}
+
+.decrease {
+  background-color: #c0392b;
+  color: white;
+}
+
+.reset {
+  background-color: #2980b9;
+  color: white;
+}
+
+/* Hover color variations */
+/* மவுஸ் செல்லும் போது நிற மாற்றங்கள் */
+.increase:hover {
+  background-color: #2ecc71;
+}
+
+.decrease:hover {
+  background-color: #e74c3c;
+}
+
+.reset:hover {
+  background-color: #3498db;
+}
