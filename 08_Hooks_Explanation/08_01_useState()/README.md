@@ -1,16 +1,72 @@
-# React + Vite
+# React Learning Repository — useState Hook
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my React learning repository!
+This repo contains my **useState Hook Explanation** with detailed notes and examples in **both English and Tamil**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Documents
 
-## React Compiler
+-  [useState Hook in React (DOCX)](./useState_Hook_in_React.docx)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Topics Covered
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- What is useState in React
+- Why useState is needed
+- Syntax and Explanation
+- Example 1: Counter Program
+- Example 2: Name Input Program
+- Example 3: Object State (User Profile)
+- English + Tamil bilingual explanations
+
+---
+
+## Usage
+
+- Read this **README.md** for a quick summary.
+- For a detailed bilingual explanation, open or download the `.docx` file provided in this folder.
+
+---
+
+## Summary
+
+The `useState` hook is one of the most commonly used hooks in React.
+It allows **functional components** to have internal state, helping you manage data that changes over time.
+This document explains how to use it effectively with 3 practical examples.
+
+---
+
+என் React கற்றல் repository-க்கு வரவேற்கிறேன்!
+இந்த ரெப்போவில் **useState Hook** பற்றிய விரிவான விளக்கங்கள் மற்றும் உதாரணங்கள் **ஆங்கிலம் மற்றும் தமிழ்** இரண்டிலும் கொடுக்கப்பட்டுள்ளன.
+
+---
+
+## ஆவணங்கள்
+
+-  [useState Hook in React (DOCX)](./useState_Hook_in_React.docx)
+
+---
+
+## உள்ளடக்கம்
+
+- useState என்றால் என்ன?
+- ஏன் useState பயன்படுத்தப்படுகிறது?
+- அதன் Syntax மற்றும் விளக்கம்
+- உதாரணம் 1: Counter Program
+- உதாரணம் 2: Name Input Program
+- உதாரணம் 3: Object State (User Profile)
+- ஆங்கிலம் + தமிழ் விளக்கங்கள்
+
+---
+
+## பயன்படுத்துவது எப்படி?
+
+- இந்த **README.md** ஒரு சுருக்கமான விளக்கத்தைக் கொடுக்கிறது.
+- விரிவான இருமொழி விளக்கத்திற்காக `.docx` ஆவணத்தை திறந்து பார்க்கவும் அல்லது பதிவிறக்கம் செய்யவும்.
+
+---
+
+ Keep Learning React — One Hook at a Time!
+ React கற்றல் தொடரட்டும் — ஒவ்வொரு ஹூக்கும் ஒரு புதிய படி!
