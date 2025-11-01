@@ -1,0 +1,43 @@
+/* Main app container */
+.app-container {
+  text-align: center;
+  padding: 40px;
+  font-family: "Poppins", sans-serif;
+  background-color: #f9f9f9;
+}
+
+/* Title styling */
+.title {
+  color: #333;
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+/* Each welcome card box */
+.welcome-card {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin: 15px auto;
+  width: 300px;
+  transition: transform 0.2s ease;
+}
+
+/* Hover effect */
+.welcome-card:hover {
+  transform: scale(1.05);
+  background-color: #f0f8ff;
+}
+
+/* Name text */
+.welcome-card h2 {
+  color: #0078d7;
+  margin-bottom: 10px;
+}
+
+/* Age text */
+.welcome-card p {
+  color: #555;
+  font-size: 16px;
+}
